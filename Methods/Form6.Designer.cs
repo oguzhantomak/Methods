@@ -62,6 +62,7 @@
             this.btnParams.TabIndex = 25;
             this.btnParams.Text = "PARAMS ANAHTAR KELİMESİ";
             this.btnParams.UseVisualStyleBackColor = true;
+            this.btnParams.Click += new System.EventHandler(this.BtnParams_Click);
             // 
             // btnOutUc
             // 
